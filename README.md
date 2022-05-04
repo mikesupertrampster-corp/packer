@@ -1,6 +1,6 @@
 # Packer
 
-[![Gitleaks](https://github.com/mikesupertrampster/packer/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/mikesupertrampster/packer/actions/workflows/gitleaks.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0ff833b6e73444f99dbefe273b5ee1e9)](https://www.codacy.com/gh/mikesupertrampster-corp/packer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mikesupertrampster-corp/packer&amp;utm_campaign=Badge_Grade)
+[![Gitleaks](https://github.com/mikesupertrampster/packer/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/mikesupertrampster/packer/actions/workflows/gitleaks.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0ff833b6e73444f99dbefe273b5ee1e9)](https://www.codacy.com/gh/mikesupertrampster-corp/packer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mikesupertrampster-corp/packer&amp;utm_campaign=Badge_Grade) [![packer-validate](https://github.com/mikesupertrampster-corp/packer/actions/workflows/packer.yml/badge.svg)](https://github.com/mikesupertrampster-corp/packer/actions/workflows/packer.yml)
 
 ### Build
 
